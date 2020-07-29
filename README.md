@@ -2,7 +2,7 @@
 
 Most of my repositories will be about <i>ML, DS and Web Development</i>. 
 - 🔭 I’m currently working on Image Processing using OpenCV.
-- 👯 I’m looking to collaborate on Computer Vision projects and Front-End Web Development.
+- 👯 I’m looking to collaborate on Computer Vision projects and Front-End Development.
 - 📫 How to reach me: srinijadharani001@gmail.com
 - ⚡ Fun fact: I'm a devoted Potterhead!
 

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Most of my repositories will be about <i>ML, DS and Web Development</i>. Feel free to explore! 
+
 <!--
 **srinijadharani/srinijadharani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

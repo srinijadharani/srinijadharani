@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-Most of my repositories will be about <i>ML, DS and Web Development</i>. Feel free to explore! 
+Most of my repositories will be about <i>ML, DS and Web Development</i>. 
+- 🔭 I’m currently working on Image Processing using OpenCV.
+- 👯 I’m looking to collaborate on Computer Vision projects and Front-End Web Development.
+- 📫 How to reach me: srinijadharani001@gmail.com
+- ⚡ Fun fact: I'm a devoted Potterhead!
+
+Feel free to explore!
+Adios :)
 
 <!--
 **srinijadharani/srinijadharani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

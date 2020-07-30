@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 🤠
 
 Most of my repositories will be about <i>ML, DS and Web Development</i>. 
 - 🔭 I’m currently working on Image Processing using OpenCV.

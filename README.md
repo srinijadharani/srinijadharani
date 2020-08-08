@@ -7,7 +7,7 @@ Most of my repositories will be about <i>ML, DS and Web Development</i>.
 - 💻 My portfolio website (temporary): https://srinijadharani.github.io/new-portfolio/
 - 📝 My article: https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/
 - 🎨 I draw too!
-- ⚡ Fun fact: I'm a devoted Potterhead!
+- ⚡ Fun fact about me: I'm a devoted Potterhead!
 
 Feel free to explore!
 Adios :)

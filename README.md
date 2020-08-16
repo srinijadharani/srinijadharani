@@ -4,7 +4,7 @@ Most of my repositories will be about <i>ML, DS and Web Development</i>.
 - 🔭 I’m currently working on Image Processing using OpenCV.
 - 👯 I’m looking to collaborate on Computer Vision projects and Front-End Development.
 - 📫 How to reach me: srinijadharani001@gmail.com
-- 💻 My portfolio website (temporary): https://srinijadharani.github.io/new-portfolio/
+- 💻 My portfolio website (temporary): https://srinijadharani.github.io/portfolio-2.0/
 - 📝 My article: https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/
 - 🎨 I draw too!
 - ⚡ Fun fact about me: I'm a devoted Potterhead!

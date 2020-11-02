@@ -1,7 +1,7 @@
 ### Howdy! 🤠
 
 ![Srinija's github stats](https://github-readme-stats.vercel.app/api?username=srinijadharani&show_icons=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijadharani?hide=language1,language2&layout=compact&show_icons=true) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijadharani?hide=Jupyter Notebook&layout=compact&show_icons=true) <br>
 Most of my repositories will be about <i>ML, DS and Web Development</i>. 
 - 🔭 I’m currently working on Image Processing using OpenCV.
 - 👯 I’m looking to collaborate on Computer Vision and Machine Learning Projects.

@@ -1,4 +1,4 @@
-### Howdy! 🤠
+### Howdy! 🌻
 
 <!--const themes = {
   azure: {

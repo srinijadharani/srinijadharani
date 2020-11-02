@@ -1,6 +1,6 @@
 ### Howdy! 🤠
 
-![Srinija's github stats](https://github-readme-stats.vercel.app/api?username=srinijadharani&show_icons=true&theme=nord) <br>
+![Srinija's github stats](https://github-readme-stats.vercel.app/api?username=srinijadharani&show_icons=true&theme=azure) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijadharani&layout=compact&show_icons=true&theme=nord) <br>
 
 Most of my repositories will be about <i>ML, DS and Web Development</i>. 

@@ -1,7 +1,18 @@
 ### Howdy! 🤠
 
-![Srinija's github stats](https://github-readme-stats.vercel.app/api?username=srinijadharani&show_icons=true&theme=nord) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijadharani&layout=compact&show_icons=true&theme=nord) <br>
+const themes = {
+  azure: {
+    title_color: "086972",
+    icon_color: "086972",
+    text_color: "393e46",
+    bg_color: "eeeeee",
+  },
+  };
+  
+module.exports = themes;
+
+![Srinija's github stats](https://github-readme-stats.vercel.app/api?username=srinijadharani&show_icons=true&theme=azure) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijadharani&layout=compact&show_icons=true&theme=azure) <br>
 
 Most of my repositories will be about <i>ML, DS and Web Development</i>. 
 - 🔭 I’m currently working on Image Processing using OpenCV.

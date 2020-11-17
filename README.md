@@ -17,12 +17,13 @@
 <!-- Most of my repositories will be about <i>ML, DS and Web Development</i>. 
 - 🔭 I’m currently working on Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Computer Vision and Machine Learning Projects.
+-->
 - 📫 How to reach me: srinijadharani001@gmail.com
                   or [LinkedIn](https://www.linkedin.com/in/srinijadharani/)
 - 💻 My portfolio website (temporary): [Click Here!](https://srinijadharani.github.io/portfolio-2.0/)
 - 📝 My first article: [Click Here!](https://analyticsindiamag.com/how-i-played-the-chrome-dino-game-with-just-my-palm/)
 - 🎨 I draw too!
-- ⚡ Fun fact about me: I'm a devoted Potterhead! -->
+- ⚡ Fun fact about me: I'm a devoted Potterhead!
 
 Feel free to explore!
 Adios :)

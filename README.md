@@ -1,13 +1,10 @@
 <a href="https://www.linkedin.com/in/srinijadharani/">
-  <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/arunsridher">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Srinija's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+![](https://visitor-badge.glitch.me/badge?page_id=srinijadharani)
 
-My name is Arunsridher and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+My name is Srinija Dharani, and I am a third year undergrad.
 
 ### 🛠 &nbsp;Tech Stack
 

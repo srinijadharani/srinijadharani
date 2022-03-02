@@ -14,7 +14,7 @@ My name is Srinija Dharani, and I am a third year undergrad.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
-![Machine Learning](https://img.shields.io/badge/-Machine Learning-05122A?style=flat&logo=Python)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine-Learning-05122A?style=flat&logo=Python)&nbsp;
 
 
 ## &#x1f4c8; GitHub Stats

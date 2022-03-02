@@ -13,8 +13,6 @@ My name is Srinija Dharani, and I am a third year undergrad.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)
-
 
 ## &#x1f4c8; GitHub Stats
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinijadharani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="srinijadharani" /></p>

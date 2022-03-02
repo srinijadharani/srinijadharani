@@ -25,4 +25,4 @@ My name is Srinija Dharani, and I am a third year undergrad.
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=srinijadharani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  

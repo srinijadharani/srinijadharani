@@ -18,4 +18,4 @@ My name is Srinija Dharani, and I am a third year undergrad.
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinijadharani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="srinijadharani" /></p>
 
 <br>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinijadharani&theme=midnight-purple" alt="srinijadharani" /></p>
+ <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinijadharani&theme=midnight-purple" alt="srinijadharani" /></p>

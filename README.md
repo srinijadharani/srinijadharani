@@ -15,5 +15,7 @@ My name is Srinija Dharani, and I am a third year undergrad.
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinijadharani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="srinijadharani" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinijadharani&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="srinijadharani" /></p>
+
+<br>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinijadharani&theme=midnight-purple" alt="srinijadharani" /></p>

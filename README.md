@@ -1,10 +1,4 @@
-<a href="https://www.linkedin.com/in/srinijadharani/">
-  <img align="left" alt="Srinija's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=srinijadharani)
-
-My name is Srinija Dharani, and I am a third year undergrad.
+My name is Srinija Dharani, and I am a first-year master's student, majoring in Computer Science at Florida State University.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;

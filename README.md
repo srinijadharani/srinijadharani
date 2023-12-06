@@ -12,7 +12,4 @@ My name is Srinija Dharani, and I am a first-year master's student, majoring in 
  <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinijadharani&theme=midnight-purple" alt="srinijadharani" /></p>
  <br>
 <p align="center">
-<a href="https://github.com/srinijadharani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srinijadharani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>
-</a>
 </p>

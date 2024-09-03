@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 ### 🎵 Fun Fact
 
 ### 🤝 Let's Connect
-- **LinkedIn**: [Your LinkedIn Profile](#https://www.linkedin.com/in/srinijadharani/)
-- **Portfolio**: [Your Website](#https://srinijadharani.github.io/Portfolio/)
+- **LinkedIn**: [LinkedIn](!https://www.linkedin.com/in/srinijadharani/)
+- **Portfolio**: [Website](!https://srinijadharani.github.io/Portfolio/)
 
 ### 📫 Contact Me
 - Feel free to reach out at [email@example.com](mailto:srinijadharani2@gmail.com) for any collaboration or just to say hi!

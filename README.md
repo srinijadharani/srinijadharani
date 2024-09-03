@@ -15,11 +15,11 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 ### 🎵 Fun Fact
 
 ### 🤝 Let's Connect
-- **LinkedIn**: [LinkedIn](!https://www.linkedin.com/in/srinijadharani/)
-- **Portfolio**: [Website](!https://srinijadharani.github.io/Portfolio/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/srinijadharani/)
+- **Portfolio**: [Website](https://srinijadharani.github.io/Portfolio/)
 
 ### 📫 Contact Me
-- Feel free to reach out at [email@example.com](mailto:srinijadharani2@gmail.com) for any collaboration or just to say hi!
+- Feel free to reach out at [email](mailto:srinijadharani2@gmail.com) for any collaboration or just to say hi!
 
 ---
 

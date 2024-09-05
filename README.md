@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 - **Other Skills**: Data Analysis, Machine Learning, Software Development, Problem Solving, Team Collaboration
 
 ### 📖 My Latest Article
-- **Leveraging AIML for Healthcare Data Analytics**: [Hashnode](https://srinijad.hashnode.dev/leveraging-aiml-healthcare)
+- **Leveraging AIML for Healthcare Data Analytics**: [Hashnode](https://srinijad.hashnode.dev/leveraging-aiml-healthcare) - Published on Sept 5, 2024
 
 ### 🤝 Let's Connect
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/srinijadharani/)

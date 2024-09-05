@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer and data enthusiast who
 - **Tools & Technologies**: Git, GitHub, GitLab, AWS, PGAdmin, Microsoft Azure, Apache Hadoop, Apache Spark, WordPress, JIRA
 - **Other Skills**: Data Analysis, Machine Learning, Software Development, Problem Solving, Team Collaboration
 
-### 🎵 Fun Fact
+### 📖 My Latest Article
+- **Leveraging AIML for Healthcare Data Analytics**: [Hashnode](https://srinijad.hashnode.dev/leveraging-aiml-healthcare)
 
 ### 🤝 Let's Connect
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/srinijadharani/)
